@@ -1,0 +1,23 @@
+title: "Feroz Soomro"
+description: "Personal site powered by Jekyll and Minimal Mistakes"
+url: "https://abdullahsoomroofficial.github.io"
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+minimal_mistakes_skin: "default"
+
+seo:
+  type: "Person"
+  name: "Feroz Soomro"
+  description: "Academic homepage of Dr. Feroz Soomro, applied mathematician and educator."
+
+author:
+  name: "Dr. Feroz Soomro"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Applied mathematician specializing in thermo-fluid modeling and machine learning."
+  location: "Hyderabad, Pakistan"
