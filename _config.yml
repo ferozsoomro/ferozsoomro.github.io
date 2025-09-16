@@ -1,6 +1,6 @@
 title: "Feroz Soomro"
 description: "Personal site powered by Jekyll and Minimal Mistakes"
-url: "https://abdullahsoomroofficial.github.io"
+url: "https://github.com/ferozsoomro/ferozsoomro.github.io"
 remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
@@ -21,3 +21,12 @@ author:
   avatar: "/assets/images/profile.jpg"
   bio: "Applied mathematician specializing in thermo-fluid modeling and machine learning."
   location: "Hyderabad, Pakistan"
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true

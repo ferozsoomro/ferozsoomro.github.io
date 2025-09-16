@@ -4,59 +4,27 @@ title: "Welcome"
 author_profile: true
 ---
 
-Welcome to my site! This is the homepage.
+Welcome to my academic homepage! I am an applied mathematician specializing in thermo-fluid modeling and machine learning applications.
 
-## Education
+## About Me
 
-- **Ph.D. Mathematics** — Nanjing University, China (2015–2018)
-- **M.S. Mathematics** — Nanjing University, China (2013–2015)
-- **B.S. Mathematics** — University of Sindh, Pakistan (2004–2007)
+I am currently an Instructor at Virginia Tech, with extensive experience in mathematical modeling, computational fluid dynamics, and heat transfer analysis. My research focuses on the intersection of traditional engineering problems and modern machine learning techniques.
 
-## Teaching Experience
+## Current Work
 
-Courses taught (Face-to-Face & Online):
+- Teaching advanced mathematics courses at Virginia Tech
+- Researching machine learning applications in thermo-fluid engineering
+- Mentoring graduate students in computational modeling
 
-- Multivariable Calculus
-- Calculus I, II, III
-- Linear Algebra
-- Differential Equations
-- Numerical Methods
-- Introductory Statistics
+## Quick Links
 
-Institutions:
+- [Research](/research/) - Explore my publications and ongoing projects
+- [Teaching](/teaching/) - Course information and educational philosophy
+- [CV](/cv/) - Complete academic and professional history
+- [Outreach](/outreach/) - Talks, service, and community involvement
 
-- Virginia Tech (Instructor, 2025–Present)
-- Xiamen University Malaysia (Assistant Professor, 2023–2024)
-- Quaid-e-Awam University (Assistant Professor & Lecturer, 2010–2023)
-- University of Sindh (Teaching Assistant, 2008–2010)
+## Recent News
 
-## Research Interests
-
-- Machine Learning in Thermo-Fluid Engineering
-- Convective Heat Transfer Modeling
-- Thermal Management Systems
-
-## Selected Publications
-
-- Soomro et al., _Artificial Neural Networking for 3D Stagnation-Point Flow_, Physics of Fluids, 2024.
-- Soomro et al., _MHD Slip-Flow Modeling_, Archive of Applied Mechanics, 2022.
-- Soomro et al., _Heat Transfer in Hybrid Nanofluids_, European Physical Journal Plus, 2022.
-
-## Research Mentorship
-
-- **Brandon Rhodes** (Virginia Tech, 2025–Present): ML for Heat & Mass Transfer
-- **Wang Yichuan** (Xiamen University, 2023–2024): Non-Newtonian Flow Modeling
-- **Muhammad Awais** (Sukkur IBA, 2022–2023): Nanofluid Heat Transfer
-
-## Service & Outreach
-
-- Undergraduate Advisor
-- Mathematics Club Tutor
-- Curriculum Review Committee Member
-- OBE Coordinator
-
-## Talks & Seminars
-
-- _Predictive Modeling of Boundary Layer Flow_ — Xiamen University, Mar 2024
-- _Mixed Convection in Nanofluid Enclosures_ — Xiamen University, Oct 2023
-- _SWCNT-Water Nanofluid Study_ — ASME Thermal & Fluids Conference, Las Vegas, Apr 2019
+- **2025**: Started new position as Instructor at Virginia Tech
+- **2024**: Published "Artificial Neural Networking for 3D Stagnation-Point Flow" in Physics of Fluids
+- **2023-2024**: Served as Assistant Professor at Xiamen University Malaysia
