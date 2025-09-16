@@ -23,14 +23,10 @@ author:
   location: "Blacksburg, VA"
   email: "fsoomro@vt.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:fsoomro@vt.edu"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=YOURID"
 
-# Defaults
 defaults:
   - scope:
       path: ""
@@ -38,3 +34,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+head_scripts:
+  - /assets/css/custom.css

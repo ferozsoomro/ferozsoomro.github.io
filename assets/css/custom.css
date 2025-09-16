@@ -1,0 +1,53 @@
+html {
+  font-size: 20px; /* Default is usually 16px */
+}
+
+body {
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+p {
+  font-size: 1.1em;
+}
+
+li {
+  font-size: 1.1em;
+}
+
+/* Remove hover effects on entire author profile sidebar */
+.author__content,
+.author__urls-wrapper,
+.sidebar {
+  filter: none !important;
+  opacity: 1 !important;
+}
+
+.author__content:hover,
+.author__urls-wrapper:hover,
+.sidebar:hover {
+  filter: none !important;
+  opacity: 1 !important;
+}
+
+/* Specifically target the author profile */
+.author__avatar,
+.author__content,
+.author__urls {
+  filter: none !important;
+  opacity: 1 !important;
+}
+
+.author__avatar:hover,
+.author__content:hover,
+.author__urls:hover {
+  filter: none !important;
+  opacity: 1 !important;
+}
+
+/* Remove any transition effects */
+.author__avatar img,
+.author__content,
+.author__urls-wrapper {
+  transition: none !important;
+}
