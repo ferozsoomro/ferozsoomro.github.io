@@ -17,10 +17,18 @@ seo:
   description: "Academic homepage of Dr. Feroz Soomro, applied mathematician and educator."
 
 author:
-  name: "Dr. Feroz Soomro"
+  name: "Feroz Soomro"
   avatar: "/assets/images/profile.jpg"
-  bio: "Applied mathematician specializing in thermo-fluid modeling and machine learning."
-  location: "Hyderabad, Pakistan"
+  bio: "Instructor of Mathematics"
+  location: "Blacksburg, VA"
+  email: "fsoomro@vt.edu"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:fsoomro@vt.edu"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=YOURID"
 
 # Defaults
 defaults:

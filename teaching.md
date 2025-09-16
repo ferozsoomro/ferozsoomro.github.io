@@ -5,32 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Experience
+## Fall 2025
 
-### Current Position
+MATH 1225 - Calculus of Single Variable  
+MATH 2204 - Introduction to Multivariable Calculus
 
-- **Virginia Tech** (Instructor, 2025–Present)
+## Previous Teaching
 
-### Previous Positions
-
-- **Xiamen University Malaysia** (Assistant Professor, 2023–2024)
-- **Quaid-e-Awam University** (Assistant Professor & Lecturer, 2010–2023)
-- **University of Sindh** (Teaching Assistant, 2008–2010)
-
-## Courses Taught
-
-### Face-to-Face & Online
-
-- Multivariable Calculus
-- Calculus I, II, III
-- Linear Algebra
-- Differential Equations
-- Numerical Methods
-- Introductory Statistics
-
-## Service & Outreach
-
-- Undergraduate Advisor
-- Mathematics Club Tutor
-- Curriculum Review Committee Member
-- OBE Coordinator
+MATH 1226 - Calculus of Single Variable  
+MATH 2214 - Introduction to Differential Equations

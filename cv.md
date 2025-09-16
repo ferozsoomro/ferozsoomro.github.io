@@ -1,44 +1,38 @@
 ---
 layout: single
-title: "Curriculum Vitae"
+title: "CV"
 permalink: /cv/
 author_profile: true
 ---
 
 ## Education
 
-- **Ph.D. Mathematics** — Nanjing University, China (2015–2018)
-- **M.S. Mathematics** — Nanjing University, China (2013–2015)
-- **B.S. Mathematics** — University of Sindh, Pakistan (2004–2007)
+- Ph.D. in Applied Mathematics, Nanjing University, China, 2018
+- M.S. in Applied Mathematics, Nanjing University, China, 2015
+- B.S. in Mathematics, University of Sindh, Pakistan, 2008
 
-## Professional Experience
+## Work Experience
 
-### Current
+- **Instructor**, Department of Mathematics, Virginia Polytechnic Institute and State University, Jan 2025 – Present
 
-- **Virginia Tech** (Instructor, 2025–Present)
+- **Assistant Professor**, Department of Mathematics, Xiamen University, Malaysia, Sept 2023 – August 2024
 
-### Previous
+- **Assistant Professor**, Department of Mathematics, University of Larkano, Pakistan, Aug 2018 – Aug 2023
 
-- **Xiamen University Malaysia** (Assistant Professor, 2023–2024)
-- **Quaid-e-Awam University** (Assistant Professor & Lecturer, 2010–2023)
-- **University of Sindh** (Teaching Assistant, 2008–2010)
+- **Lecturer**, Department of Mathematics, University of Larkano, Pakistan, Jan 2010 – Mar 2012
 
-## Research Areas
+- **Teaching Assistant**, Institute of Mathematics and Computer Science, University of Sindh, Pakistan, Nov 2008 – Jan 2010
 
-- Machine Learning in Thermo-Fluid Engineering
-- Convective Heat Transfer Modeling
-- Thermal Management Systems
+## Research Supervision
 
-## Selected Publications
+### Current Students
 
-- Soomro et al., _Artificial Neural Networking for 3D Stagnation-Point Flow_, Physics of Fluids, 2024.
-- Soomro et al., _MHD Slip-Flow Modeling_, Archive of Applied Mechanics, 2022.
-- Soomro et al., _Heat Transfer in Hybrid Nanofluids_, European Physical Journal Plus, 2022.
+- **Undergraduate**: Brandon Rhodes (2025–)
 
-## Mentorship
+### Former Students
 
-- **Brandon Rhodes** (Virginia Tech, 2025–Present): ML for Heat & Mass Transfer
-- **Wang Yichuan** (Xiamen University, 2023–2024): Non-Newtonian Flow Modeling
-- **Muhammad Awais** (Sukkur IBA, 2022–2023): Nanofluid Heat Transfer
+- **Awais Abro** (M.S. Environmental Engineering) Sukkur IBA University, Pakistan  
+  Thesis Title: Numerical modeling of convection heat transfer inside complex shaped enclosures
 
-[Download Full CV (PDF)](/assets/cv.pdf){: .btn .btn--primary}
+- **Yincheng Wang** (B.S. Mathematics) Xiamen University, Malaysia  
+  Predictive modeling of heat and mass transfer in the flow of non-Newtonian fluid over moving surface

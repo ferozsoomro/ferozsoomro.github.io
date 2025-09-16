@@ -1,30 +1,33 @@
 ---
 layout: single
-title: "Welcome"
 author_profile: true
 ---
 
-Welcome to my academic homepage! I am an applied mathematician specializing in thermo-fluid modeling and machine learning applications.
+I am working as an Instructor of Mathematics at the [Department of Mathematics](https://www.math.vt.edu/), Virginia Polytechnic and State University.
 
-## About Me
+I received M.S. and Ph.D. degree in Mathematics from Department of Mathematics, Nanjing University in 2015 and 2018, respectively. I have been teaching mathematics for over nine years.
 
-I am currently an Instructor at Virginia Tech, with extensive experience in mathematical modeling, computational fluid dynamics, and heat transfer analysis. My research focuses on the intersection of traditional engineering problems and modern machine learning techniques.
+My area of research is scientific computing, applied mathematics, and data-driven modeling and computation. I am interested in modeling and simulation of coupled nonlinear ordinary and partial differential equations arising from science and engineering. I work on modeling and simulation of heat transfer processes using scientific machine learning methods, particularly Physics-Informed Neural Networks (PINNs).
 
-## Current Work
+_Please feel free to reach out if you are interested in working with me on the above project._
 
-- Teaching advanced mathematics courses at Virginia Tech
-- Researching machine learning applications in thermo-fluid engineering
-- Mentoring graduate students in computational modeling
+## Research Interests
 
-## Quick Links
+Scientific computing, numerical simulation, Data-driven modeling and computation.
 
-- [Research](/research/) - Explore my publications and ongoing projects
-- [Teaching](/teaching/) - Course information and educational philosophy
-- [CV](/cv/) - Complete academic and professional history
-- [Outreach](/outreach/) - Talks, service, and community involvement
+- Predictive modeling using deep learning algorithms
+- Scientific Machine Learning
+- Machine learning modeling of ordinary and partial differential equation using PINNs
+- Modeling and simulation of flow dynamics and heat transfer processes
 
-## Recent News
+More details can be found on the [Research page](/research/).
 
-- **2025**: Started new position as Instructor at Virginia Tech
-- **2024**: Published "Artificial Neural Networking for 3D Stagnation-Point Flow" in Physics of Fluids
-- **2023-2024**: Served as Assistant Professor at Xiamen University Malaysia
+## Contact Information
+
+Email: fsoomro at vt.edu
+
+Address:  
+McBryde Hall 445  
+Department of Mathematics  
+Virginia Polytechnic Institute and State University  
+Blacksburg, VA 24061
