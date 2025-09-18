@@ -39,5 +39,7 @@ sass:
   sass_dir: _sass
   style: compressed
 
-head_scripts:
-  - /assets/css/custom.css
+# Link to custom CSS file
+after_footer_scripts:
+  - |
+    <link rel="stylesheet" href="/assets/css/custom.css">
