@@ -57,24 +57,7 @@ li {
   display: none !important;
 }
 
-/* Align navigation links to the left */
-.greedy-nav {
-  justify-content: flex-start !important;
-}
-
-/* Remove any left margin/padding from the navigation container */
-.masthead {
-  padding-left: 1rem;
-}
-
-/* Ensure navigation links are visible and aligned left */
 .visible-links {
-  display: flex !important;
-  margin-left: 0 !important;
-  flex-grow: 0 !important;
-}
-
-/* Make sure menu items are visible */
-.masthead__menu-item {
-  display: block !important;
+  justify-content: start !important;
+  align-items: center !important;
 }
