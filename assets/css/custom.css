@@ -62,25 +62,19 @@ li {
   justify-content: flex-start !important;
 }
 
-.greedy-nav .nav-links {
-  margin-left: 0 !important;
-}
-
 /* Remove any left margin/padding from the navigation container */
 .masthead {
   padding-left: 1rem;
 }
 
-.greedy-nav .site-nav {
-  margin-left: 0 !important;
-}
-
-/* Ensure navigation starts from the left edge */
-.greedy-nav__toggle {
-  order: 2;
-}
-
+/* Ensure navigation links are visible and aligned left */
 .visible-links {
-  flex-grow: 0 !important;
+  display: flex !important;
   margin-left: 0 !important;
+  flex-grow: 0 !important;
+}
+
+/* Make sure menu items are visible */
+.masthead__menu-item {
+  display: block !important;
 }
