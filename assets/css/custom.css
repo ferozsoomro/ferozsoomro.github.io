@@ -51,3 +51,36 @@ li {
 .author__urls-wrapper {
   transition: none !important;
 }
+
+/* Hide the site title/name from navbar */
+.site-title {
+  display: none !important;
+}
+
+/* Align navigation links to the left */
+.greedy-nav {
+  justify-content: flex-start !important;
+}
+
+.greedy-nav .nav-links {
+  margin-left: 0 !important;
+}
+
+/* Remove any left margin/padding from the navigation container */
+.masthead {
+  padding-left: 1rem;
+}
+
+.greedy-nav .site-nav {
+  margin-left: 0 !important;
+}
+
+/* Ensure navigation starts from the left edge */
+.greedy-nav__toggle {
+  order: 2;
+}
+
+.visible-links {
+  flex-grow: 0 !important;
+  margin-left: 0 !important;
+}
