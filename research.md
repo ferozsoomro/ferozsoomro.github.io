@@ -9,15 +9,15 @@ author_profile: true
 
 ### To Appear
 
-Ahmad, Feroz Soomro, Husna Zafar, Machine Learning Study of Magnetohydrodynamics Slip-Flow over Permeable Stretching Surface Using Physics-Informed Neural Network, to appear, (2025)
+Ahmad, **Feroz Soomro**, Husna Zafar, _Machine Learning Study of Magnetohydrodynamics Slip-Flow over Permeable Stretching Surface Using Physics-Informed Neural Network_, to appear, (2025)
 
 ### Published
 
 Here’s your list with numbered bullets for clarity and citation formatting:
 
-1. **Sana Saleem, Rizwan Ul Haq, M. Mustafa, F.A. Soomro**,  
+1. Sana Saleem, Rizwan Ul Haq, M. Mustafa, **F.A. Soomro**,  
    _Application of Artificial Neural Networking to Scrutinize the Three-Dimensional Stagnation-Point Flow with Variable Physical Properties_,  
-   _Physics of Fluids_, **36** (2024) 103631.
+   Physics of Fluids, 36 (2024) 103631.
 
 2. **Feroz Ahmed Soomro, M.A. Alamir, Shreen El-Sapa, Rizwan Ul Haq, Muhammad Afzal Soomro**,  
    _Artificial neural network modeling of MHD slip-flow over a permeable stretching surface_,  
