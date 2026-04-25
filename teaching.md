@@ -13,5 +13,5 @@ MATH 1225 - Calculus of Single Variable (Calculus I)
 
 MATH 1225 - Calculus of Single Variable (Calculus I)  
 MATH 1226 - Calculus of Single Variable (Calculus II)  
-MATH 2204 - Multivariable Calculus (Calculus III) 
+MATH 2204 - Multivariable Calculus (Calculus III)   
 MATH 2214 - Differential Equations
